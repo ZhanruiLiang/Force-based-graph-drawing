@@ -1,0 +1,27 @@
+#canvas {
+	background: white;
+	position: relative;
+	left: 0px;
+	top: 0px;
+	border: solid blue 5px;
+}
+
+#div_debug {
+	background: white;
+	float: left;
+	left: 830px;
+	top: 0px;
+	border: dotted black 3px;
+	width: 200px;
+	height: 400px;
+}
+
+#div_panel {
+	left: 0px;
+	top: 320px;
+}
+
+body {
+	background: black;
+	margin: 10%;
+}
